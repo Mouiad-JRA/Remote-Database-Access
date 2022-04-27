@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\CustomerServer.exe.config
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\CustomerServer.exe
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\CustomerServer.pdb
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\Interface_CustomerInfo.dll
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\Interface_CustomerInfo.pdb
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.csproj.CopyComplete
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.exe
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.pdb
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\CustomerServer.exe.manifest
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\bin\Debug\CustomerServer.application
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.exe.manifest
+C:\Users\DELL\source\repos\CustomerServer\CustomerServer\obj\Debug\CustomerServer.application

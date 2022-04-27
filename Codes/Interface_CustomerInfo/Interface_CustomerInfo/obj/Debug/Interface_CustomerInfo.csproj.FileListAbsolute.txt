@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\bin\Debug\Interface_CustomerInfo.dll
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\bin\Debug\Interface_CustomerInfo.pdb
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\obj\Debug\Interface_CustomerInfo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\obj\Debug\Interface_CustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\obj\Debug\Interface_CustomerInfo.dll
+C:\Users\DELL\source\repos\Interface_CustomerInfo\Interface_CustomerInfo\obj\Debug\Interface_CustomerInfo.pdb
