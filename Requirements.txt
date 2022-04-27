@@ -1,0 +1,9 @@
+visual studio 2019
+microsoft sql server management studio 18 
+northwind database
+Add the following as a reference using Visual:
+System.Runtime.Remoting.DLL 
+System.Drawing.DLL 
+System.Drawing.Design.DLL 
+System.Windows.Forms.DLL 
+System.Windows.Forms.DataVisualization.DLL 
